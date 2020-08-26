@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "D:\\Users\\marco\\anaconda3\\python.exe",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.ipynb_checkpoints": true
+    }
+}
