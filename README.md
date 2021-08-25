@@ -1,1 +1,1 @@
-# learn-notebooks
+# learning-notebooks
